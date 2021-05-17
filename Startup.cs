@@ -30,6 +30,7 @@ namespace UserManagement
             var connection = Configuration.GetConnectionString("UserDatabase");
             services.AddDbContextPool<UserContext>(option => option.UseSqlServer(connection));
             services.AddControllers();
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,6 +51,12 @@ namespace UserManagement
             {
                 endpoints.MapControllers();
             });
+            // global cors policy
+            app.UseCors(x => x
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                .SetIsOriginAllowed(origin => true) // allow any origin
+                .AllowCredentials()); // allow credentials
         }
     }
 }
