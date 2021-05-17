@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3IFwi5vMsUdjSiNAe/zz69tg0i0air36KG33pptkQ9DH/TD1gVBwjtTfBASmeTNPs49EBqfMb+XMReQzQZKgUA==",
+  "dgSpecHash": "BYOYui+WTIisW/65BrMpjOew0STYMaUv7bRXB/luJOBX/TIcNXh95B67DJ9wyKuiPSXYCp+T+VkXSNSEIDEtjA==",
   "success": true,
-  "projectFilePath": "D:\\stub\\self_study\\backend\\UserManagement\\UserManagement.csproj",
+  "projectFilePath": "D:\\stub\\self_study\\backend\\user-management\\UserManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quock\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.8\\microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
     "C:\\Users\\quock\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

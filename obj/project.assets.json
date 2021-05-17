@@ -8511,11 +8511,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\stub\\self_study\\backend\\UserManagement\\UserManagement.csproj",
+      "projectUniqueName": "D:\\stub\\self_study\\backend\\user-management\\UserManagement.csproj",
       "projectName": "UserManagement",
-      "projectPath": "D:\\stub\\self_study\\backend\\UserManagement\\UserManagement.csproj",
+      "projectPath": "D:\\stub\\self_study\\backend\\user-management\\UserManagement.csproj",
       "packagesPath": "C:\\Users\\quock\\.nuget\\packages\\",
-      "outputPath": "D:\\stub\\self_study\\backend\\UserManagement\\obj\\",
+      "outputPath": "D:\\stub\\self_study\\backend\\user-management\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quock\\AppData\\Roaming\\NuGet\\NuGet.Config",
